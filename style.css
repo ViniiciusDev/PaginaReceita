@@ -23,13 +23,34 @@ img  {
   border-radius: 16px;
 }
 
+main  {
+  padding: 24px;
+}
+
 .about-title  {
   line-height: 140%;
   font-size: 40px;
   color: #291B1A;
+  padding-bottom: 4px;
+}
+
+.about-description  {
+  padding-bottom: 12px;
+}
+
+.ingredients, .preparation  {
+  padding-top: 24px;
 }
 
 .ingredients-title, .preparation-title  {
   font-size: 24px;
   color: #291B1A;
+  padding-bottom: 4;
+}
+
+footer  {
+  color: #F0E8C2;
+  line-height: 150%;
+  text-align: center;
+  padding-bottom: 48px;
 }
